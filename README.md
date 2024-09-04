@@ -1,8 +1,7 @@
 # About me.
+HI
 
-**FREIJ-s/FREIJ-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+"Passionné par l'exploration spatiale, j'ai un intérêt particulier pour la NASA et tout ce qui touche à l'univers."
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
